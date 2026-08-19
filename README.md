@@ -15,7 +15,20 @@
 
 # 💫 About Me:
 
-## ![Bosch Logo](https://img.shields.io/badge/Bosch-Brasil-red?style=for-the-badge&logo=bosch&logoColor=white) Proud to work #LikeABosch
+<div align=center>
+  
+  <img src="docs/images/Portrait_shivers.webp" height=400px>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/images/Portrait_volition.webp" height=400px>
+  
+</div>
+
+## Proud to work #LikeABosch
+![Bosch Logo](https://img.shields.io/badge/Bosch-Brasil-red?style=for-the-badge&logo=bosch&logoColor=white) 
 
 <br>
 

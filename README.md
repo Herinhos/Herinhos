@@ -28,7 +28,7 @@
 ## Proud to work #LikeABosch
 ![Bosch Logo](https://img.shields.io/badge/Bosch-Brasil-red?style=for-the-badge&logo=bosch&logoColor=white) 
 
-<br>
+<br />
 
 ### 🔭 I’m currently working on
 - Game Development and Systems architecture.
@@ -48,17 +48,17 @@
 ### ⚡ Fun fact
 - I actually enjoy coding
 
-<br>
+<br />
 
 ---
 
 ## 🌐 Socials:
 
-<br>
+<br />
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_herinhos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:herosleal4@gmail.com) 
 
-<br>
+<br />
 
 # 💻 Tech Stack:
 
@@ -88,19 +88,11 @@
 
 <div align=center>
 
-  ![Stats](https://github-readme-stats.shion.dev/api?username=Herinhos&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-  ![Streak](https://streak-stats.demolab.com/?user=Herinhos&theme=catppuccin_mocha&hide_border=false)<br/>
-  
-  ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Herinhos&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)
+  <br />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
 </div>
-
-## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Herinhos&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 

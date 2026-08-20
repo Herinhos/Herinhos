@@ -88,19 +88,11 @@
 
 <div align=center>
 
-  ![Stats](https://github-readme-stats.shion.dev/api?username=Herinhos&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-  ![Streak](https://streak-stats.demolab.com/?user=Herinhos&theme=catppuccin_mocha&hide_border=false)<br/>
-  
-  ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Herinhos&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)
+  <br />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
 </div>
-
-## ✍️ Citação aleatória de algum desenvolvedor
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🔝 Repositório com maior contribuição
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Herinhos&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 

@@ -12,6 +12,7 @@
   <a href="README.pt-br.md">
     <img src="https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge&logo=github" alt="Português" />
   </a>
+  <br /><br />
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Herinhos&icon=0&color=blue" alt="Profile Views" />
   </a>

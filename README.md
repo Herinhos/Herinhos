@@ -88,7 +88,7 @@
 
 <div align=center>
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=donut-vertical&langs_count=12&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=donut-vertical&show_icons=true&count_private=true&include_all_commits=true&langs_count=12&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=compact&langs_count=8&theme=catppuccin_mocha)
   <br />
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 

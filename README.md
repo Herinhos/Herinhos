@@ -12,6 +12,7 @@
   <a href="README.pt-br.md">
     <img src="https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge&logo=github" alt="Português" />
   </a>
+  <br /><br />
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Herinhos&icon=0&color=blue" alt="Profile Views" />
   </a>
@@ -139,7 +140,7 @@
 
   <!-- Main Overall Stats -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&theme=catppuccin_mocha" alt="GitHub Stats" />
   </a>
 
 </div>

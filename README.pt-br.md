@@ -89,7 +89,7 @@
 <div align=center>
   <!-- Top Languages Excluding cosmoNotes since i fucked it up bloated it up with javascript -->
   
-  [![GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=donut&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=cosmoNotes&langs_count=12&hide=html,css,jupyter_notebook&theme=catppuccin_mocha)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Herinhos&layout=donut&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=cosmoNotes&langs_count=12&hide=html,css,jupyter%20notebook&theme=catppuccin_mocha)](https://github.com/stats-organization/github-stats-extended)
   <br />
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Herinhos&custom_title=Herinhos%27%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github.com/stats-organization/github-stats-extended)
 
